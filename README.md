@@ -28,3 +28,6 @@ The computer and player face off in **10 rounds**, and the game announces result
 ---
 
 ## 📂 Project Structure
+main_55.py
+<br>
+README.md
